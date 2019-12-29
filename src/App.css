@@ -1,22 +1,25 @@
-.App {
-  text-align: center;
+.PostingSectionc{
+  background-color: #cf8ce0d7;
 }
 
-.App-logo {
-  height: 40vmin;
+
+.PostingPaper{
+  padding : 1rem;
+  margin : 1rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.PostingForm{
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+.card{
+  margin-bottom: 3rem;
+  border:1px;
+  display: inline;
+}
+
+
+body{
+  background-color: #f5d9fcd7;
 }
